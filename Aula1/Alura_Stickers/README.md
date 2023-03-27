@@ -1,4 +1,4 @@
-<h1 align="center"> Aula 1 <br> - Consumindo uma API de filmes com Java🍁 </h1>
+<h1 align="center"> Aula 1 <br> Consumindo uma API de filmes com Java 🍁</h1>
 
 <p> Resultado no Terminal </p>
 
