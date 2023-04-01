@@ -2,5 +2,4 @@
 
 <p> Resultado </p>
 
-
-![12 Angry Men](https://user-images.githubusercontent.com/104602677/229316579-7d018fed-c4ec-4039-b83b-6fa4b0a7b2e7.png)
+![The Shawshank Redemption](https://user-images.githubusercontent.com/104602677/229316595-2b91b3cc-d169-4545-9ad3-112b8972889b.png)
