@@ -65,7 +65,8 @@ public class GeradorDeFigurinhas{
         graphics.setClip(outline);
 
         /* Escrever a imagem nova em um arquivo */
-        String caminho = "C:\\Users\\NicolleT\\Desktop\\Imersao_Java-Alura\\Aula2\\Alura_Stickers\\saida";
+        /* Ao testar o código, coloque na variável "caminho" o caminho completo até sua pasta saida */
+        String caminho = " ... \Imersao_Java-Alura\\Aula2\\Alura_Stickers\\saida";
         if(!new File(caminho).exists()){
             new File(caminho).mkdirs();
         }
